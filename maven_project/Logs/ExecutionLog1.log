@@ -1,0 +1,193 @@
+2023-01-18 20:52:27,058 [main] INFO maven_project - open commerce URL
+2023-01-18 20:52:27,287 [main] INFO maven_project - enter email
+2023-01-18 20:52:27,409 [main] INFO maven_project - enter password
+2023-01-18 20:52:27,485 [main] INFO maven_project - click into login button
+2023-01-18 20:54:50,091 [main] INFO maven_project - open commerce URL
+2023-01-18 20:54:50,304 [main] INFO maven_project - enter email
+2023-01-18 20:54:50,419 [main] INFO maven_project - enter password
+2023-01-18 20:54:51,392 [main] INFO maven_project - click into login button
+2023-01-18 20:54:51,411 [main] INFO maven_project - Login success
+2023-01-18 22:24:31,122 [main] INFO maven_project - open commerce URL
+2023-01-18 22:24:31,312 [main] INFO maven_project - enter email
+2023-01-18 22:24:33,531 [main] INFO maven_project - enter password
+2023-01-18 22:24:36,923 [main] INFO maven_project - click into login button
+2023-01-18 22:27:17,614 [main] INFO maven_project - open commerce URL
+2023-01-18 22:27:17,802 [main] INFO maven_project - enter email
+2023-01-18 22:27:20,060 [main] INFO maven_project - enter password
+2023-01-18 22:27:23,394 [main] INFO maven_project - click into login button
+2023-01-18 22:28:18,095 [main] INFO maven_project - open commerce URL
+2023-01-18 22:28:18,297 [main] INFO maven_project - enter email
+2023-01-18 22:28:20,473 [main] INFO maven_project - enter password
+2023-01-18 22:28:23,852 [main] INFO maven_project - click into login button
+2023-01-18 22:29:26,627 [main] INFO maven_project - open commerce URL
+2023-01-18 22:29:26,833 [main] INFO maven_project - enter email
+2023-01-18 22:29:28,977 [main] INFO maven_project - enter password
+2023-01-18 22:29:31,527 [main] INFO maven_project - click into login button
+2023-01-18 22:33:05,413 [main] INFO maven_project - open commerce URL
+2023-01-18 22:33:05,569 [main] INFO maven_project - enter email
+2023-01-18 22:33:07,812 [main] INFO maven_project - enter password
+2023-01-18 22:33:10,858 [main] INFO maven_project - click into login button
+2023-01-18 22:38:51,572 [main] INFO maven_project - open commerce URL
+2023-01-18 22:42:18,206 [main] INFO maven_project - open commerce URL
+2023-01-18 22:42:18,473 [main] INFO maven_project - enter email
+2023-01-18 22:42:20,655 [main] INFO maven_project - enter password
+2023-01-18 22:42:22,771 [main] INFO maven_project - click into login button
+2023-01-18 22:45:50,810 [main] INFO maven_project - open commerce URL
+2023-01-18 22:45:51,174 [main] INFO maven_project - enter email
+2023-01-18 22:45:53,399 [main] INFO maven_project - enter password
+2023-01-18 22:45:55,530 [main] INFO maven_project - click into login button
+2023-01-18 22:46:51,332 [main] INFO maven_project - open commerce URL
+2023-01-18 22:46:51,574 [main] INFO maven_project - enter email
+2023-01-18 22:46:53,796 [main] INFO maven_project - enter password
+2023-01-18 22:46:56,061 [main] INFO maven_project - click into login button
+2023-01-18 22:51:34,832 [main] INFO maven_project - open commerce URL
+2023-01-18 22:51:35,108 [main] INFO maven_project - enter email
+2023-01-18 22:51:37,402 [main] INFO maven_project - enter password
+2023-01-18 22:51:39,514 [main] INFO maven_project - click into login button
+2023-01-18 22:53:42,928 [main] INFO maven_project - open commerce URL
+2023-01-18 22:55:03,104 [main] INFO maven_project - open commerce URL
+2023-01-18 22:55:03,338 [main] INFO maven_project - enter email
+2023-01-18 22:55:05,577 [main] INFO maven_project - enter password
+2023-01-18 22:55:07,670 [main] INFO maven_project - click into login button
+2023-01-18 22:55:52,912 [main] INFO maven_project - open commerce URL
+2023-01-18 22:55:53,116 [main] INFO maven_project - enter email
+2023-01-18 22:55:55,445 [main] INFO maven_project - enter password
+2023-01-18 22:55:57,550 [main] INFO maven_project - click into login button
+2023-01-19 15:11:27,430 [main] INFO maven_project - open commerce URL
+2023-01-19 15:11:27,614 [main] INFO maven_project - enter email
+2023-01-19 15:11:29,839 [main] INFO maven_project - enter password
+2023-01-19 15:11:31,935 [main] INFO maven_project - click into login button
+2023-01-19 15:14:09,054 [main] INFO maven_project - open commerce URL
+2023-01-19 15:14:09,280 [main] INFO maven_project - enter email
+2023-01-19 15:14:11,492 [main] INFO maven_project - enter password
+2023-01-19 15:14:13,610 [main] INFO maven_project - click into login button
+2023-01-19 23:34:21,070 [main] INFO maven_project - open commerce URL
+2023-01-19 23:34:21,366 [main] INFO maven_project - enter email
+2023-01-19 23:34:23,636 [main] INFO maven_project - enter password
+2023-01-19 23:34:26,234 [main] INFO maven_project - click into login button
+2023-01-19 23:39:30,451 [TestNG-tests-2] INFO maven_project - open commerce URL
+2023-01-19 23:39:30,694 [TestNG-tests-2] INFO maven_project - enter email
+2023-01-19 23:39:32,898 [TestNG-tests-2] INFO maven_project - enter password
+2023-01-19 23:39:35,037 [TestNG-tests-2] INFO maven_project - click into login button
+2023-01-20 00:45:17,514 [TestNG-tests-2] INFO maven_project - open commerce URL
+2023-01-20 00:45:18,596 [TestNG-tests-2] INFO maven_project - enter email
+2023-01-20 00:45:20,760 [TestNG-tests-2] INFO maven_project - enter password
+2023-01-20 00:45:22,851 [TestNG-tests-2] INFO maven_project - click into login button
+2023-01-20 00:52:01,458 [TestNG-tests-2] INFO maven_project - open commerce URL
+2023-01-20 00:52:02,458 [TestNG-tests-2] INFO maven_project - enter email
+2023-01-20 00:52:04,623 [TestNG-tests-2] INFO maven_project - enter password
+2023-01-20 00:52:06,753 [TestNG-tests-2] INFO maven_project - click into login button
+2023-01-23 00:18:13,303 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 00:19:44,131 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 00:22:41,131 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 00:32:13,429 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 00:32:14,840 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 00:32:15,066 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 00:32:17,323 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 00:32:19,844 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:26:46,260 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:26:46,433 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:29:26,216 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:29:27,677 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:29:27,678 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:29:27,921 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:29:30,181 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:29:32,275 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:30:15,744 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:30:16,461 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:30:16,462 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:30:16,604 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:30:18,776 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:30:21,314 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:31:36,088 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:31:36,851 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:31:36,851 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:31:37,003 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:31:39,216 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:31:42,487 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:35:31,122 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:35:32,636 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:35:32,642 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:35:32,875 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:35:35,064 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:35:38,060 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:38:02,670 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:38:04,320 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:38:04,325 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:38:04,511 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:38:06,908 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:38:10,012 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:38:10,232 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:38:11,013 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:38:21,889 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-23 20:40:04,502 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:40:05,321 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:40:05,322 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:40:05,490 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:40:07,655 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:40:10,610 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:40:10,811 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:40:11,513 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:40:19,536 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-23 20:45:11,949 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:45:13,346 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:45:13,347 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:45:13,515 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:45:15,738 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:45:19,908 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:45:20,131 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:45:20,854 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:45:28,461 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-23 20:46:58,293 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:47:00,862 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:47:00,863 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:47:01,009 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:47:03,285 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:47:06,318 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:47:06,509 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:47:07,288 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:47:27,400 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-23 20:51:01,146 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:51:02,627 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:51:02,628 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:51:02,762 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:51:04,930 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:51:07,920 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:51:08,115 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:51:08,797 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:51:27,289 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-23 20:53:47,740 [TestNG-tests-1] INFO maven_project - open commerce URL
+2023-01-23 20:53:49,399 [TestNG-tests-1] INFO maven_project - click on login
+2023-01-23 20:53:49,400 [TestNG-tests-1] INFO maven_project - click on a login button
+2023-01-23 20:53:49,553 [TestNG-tests-1] INFO maven_project - enter email
+2023-01-23 20:53:51,855 [TestNG-tests-1] INFO maven_project - enter password
+2023-01-23 20:53:54,747 [TestNG-tests-1] INFO maven_project - click into login button
+2023-01-23 20:53:54,968 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:53:55,695 [TestNG-tests-1] INFO maven_project - move cursor to the computer
+2023-01-23 20:54:01,863 [TestNG-tests-1] INFO maven_project - click on notebook
+2023-01-25 21:25:22,947 [main] INFO maven_project - Open URL
+2023-01-25 21:25:26,150 [main] INFO maven_project - Enter user mailL
+2023-01-25 21:25:29,276 [main] INFO maven_project - Enter User password
+2023-01-25 21:25:33,701 [main] INFO maven_project - Clicked on longin button
+2023-01-25 21:27:05,583 [main] INFO maven_project - Open URL
+2023-01-25 21:27:08,785 [main] INFO maven_project - Enter user mailL
+2023-01-25 21:27:11,919 [main] INFO maven_project - Enter User password
+2023-01-25 21:27:16,803 [main] INFO maven_project - Clicked on longin button
+2023-01-25 21:27:20,023 [main] INFO maven_project - Login successfully
+2023-01-25 21:28:09,867 [main] INFO maven_project - Open URL
+2023-01-25 21:28:13,052 [main] INFO maven_project - Enter user mailL
+2023-01-25 21:28:16,182 [main] INFO maven_project - Enter User password
+2023-01-25 21:28:20,951 [main] INFO maven_project - Clicked on longin button
+2023-01-25 21:28:24,161 [main] INFO maven_project - Mouseover on computer
+2023-01-25 21:28:25,355 [main] INFO maven_project - Clicked on NotebookText
+2023-01-25 21:29:24,217 [main] INFO maven_project - User created
+2023-01-25 22:52:16,376 [main] INFO maven_project - Open URL
+2023-01-25 22:52:19,629 [main] INFO maven_project - Enter user mailL
+2023-01-25 22:52:22,795 [main] INFO maven_project - Enter User password
+2023-01-25 22:52:27,197 [main] INFO maven_project - Clicked on longin button
+2023-01-25 22:52:38,748 [main] INFO maven_project - User created
+2023-01-25 22:52:42,501 [main] INFO maven_project - Open URL
+2023-01-25 22:52:45,704 [main] INFO maven_project - Enter user mailL
+2023-01-25 22:52:48,877 [main] INFO maven_project - Enter User password
+2023-01-25 22:52:52,642 [main] INFO maven_project - Clicked on longin button
+2023-01-25 22:53:23,074 [main] INFO maven_project - User created
